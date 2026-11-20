@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://github.com/gamerhafidz7-hash/kelola-keuangan-updates/releases/latest/download/kelola-keuangan-ai.apk",
-    "changelog":  "Perbaikan pencarian AI lintas periode dan hapus transaksi massal tanpa batas 3 item.",
-    "versionCode":  9,
-    "versionName":  "1.8.1",
-    "publishedAt":  "2026-11-20T02:37:02.1699085Z"
+    "changelog":  "Tambah Edit (nama, grup, saldo awal) dan Hapus Aset di Kelola Aset \u0026 Detail Aset, plus URL update otomatis.",
+    "versionCode":  10,
+    "versionName":  "1.8.2",
+    "publishedAt":  "2026-11-20T07:10:45.6715624Z"
 }
