@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://github.com/gamerhafidz7-hash/kelola-keuangan-updates/releases/latest/download/kelola-keuangan-ai.apk",
-    "changelog":  "Ubah nama aplikasi menjadi Kelola Uangmu AI",
-    "versionCode":  14,
-    "versionName":  "1.8.6",
-    "publishedAt":  "2026-11-22T08:23:16.855Z"
+    "changelog":  "v1.8.7: Branding Kelola Uangmu AI di halaman utama, Kelola Kategori swipe kanan-kiri \u0026 urutan naik-turun, rombak tampilan pemilih kategori, Donut Chart Statistik diperlebar \u0026 strip ringkasan compact, jeda suara AI lebih tenang + kamera struk, logo resmi Bank \u0026 E-Wallet populer, Edit Profil Pengguna, Sidik Jari (Biometrik) \u0026 pengaturan waktu kunci otomatis, perbaikan tombol Back Target Tabungan, serta optimasi Play Protect.",
+    "versionCode":  15,
+    "versionName":  "1.8.7",
+    "publishedAt":  "2026-11-22T09:05:42.301Z"
 }
