@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://github.com/gamerhafidz7-hash/kelola-keuangan-updates/releases/latest/download/kelola-keuangan-ai.apk",
-    "changelog":  "Redesign antarmuka modern fintech (Google Stitch) dengan Tema Terang/Gelap/Sistem, kartu AI otomatis ringkas (compact) setelah tersimpan, sistem Kuota AI Bulanan tanpa input API Key manual, Parser Notifikasi Bank \u0026 E-Wallet Offline, Pusat Notifikasi Keuangan Penting, Target Tabungan multi-akun aset, tombol Kelola Kategori langsung di form transaksi, dan hapus massal transaksi.",
-    "versionCode":  13,
-    "versionName":  "1.8.5",
-    "publishedAt":  "2026-11-22T07:53:34.862Z"
+    "changelog":  "Ubah nama aplikasi menjadi Kelola Uangmu AI",
+    "versionCode":  14,
+    "versionName":  "1.8.6",
+    "publishedAt":  "2026-11-22T08:23:16.855Z"
 }
