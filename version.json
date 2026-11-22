@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://github.com/gamerhafidz7-hash/kelola-keuangan-updates/releases/latest/download/kelola-keuangan-ai.apk",
-    "changelog":  "Penyatuan keystore permanen debug/release dan sinkronisasi masukan lewat folder outbox Syncthing.",
-    "versionCode":  11,
-    "versionName":  "1.8.3",
-    "publishedAt":  "2026-11-22T03:23:01.209Z"
+    "changelog":  "Target multi-akun aset, hapus massal \u0026 per tanggal dengan konfirmasi, tambah/edit kategori langsung di form transaksi, pengenalan subjek nama orang di AI (piutang/utang), tekan tahan aset untuk edit/hapus di header, serta status outbox Syncthing di riwayat masukan.",
+    "versionCode":  12,
+    "versionName":  "1.8.4",
+    "publishedAt":  "2026-11-22T04:03:24.656Z"
 }
