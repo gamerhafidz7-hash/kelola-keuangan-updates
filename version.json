@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://github.com/gamerhafidz7-hash/kelola-keuangan-updates/releases/latest/download/kelola-keuangan-ai.apk",
-    "changelog":  "v1.8.9: Scroll 120Hz mulus di Tab Transaksi, Statistik, dan Detail Akun (virtualisasi baris transaksi per-item \u0026 hapus HorizontalPager bersarang), serta redesign penuh Widget Beranda bergaya Google Material You / Pixel Pill.",
-    "versionCode":  17,
-    "versionName":  "1.8.9",
-    "publishedAt":  "2026-11-22T12:43:12.961Z"
+    "changelog":  "v1.8.10: Fix bug overlap kartu ringkasan dan daftar transaksi harian di Tab Transaksi, serta widget beranda transparan tanpa background putih dengan tombol \u0027Tell AI!\u0027.",
+    "versionCode":  18,
+    "versionName":  "1.8.10",
+    "publishedAt":  "2026-11-22T12:51:04.220Z"
 }
